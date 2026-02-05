@@ -1,0 +1,5002 @@
+[
+    {
+        "book_name": "A Light in the Attic",
+        "price": "Â£51.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tipping the Velvet",
+        "price": "Â£53.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Soumission",
+        "price": "Â£50.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sharp Objects",
+        "price": "Â£47.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sapiens: A Brief History of Humankind",
+        "price": "Â£54.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Requiem Red",
+        "price": "Â£22.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "Â£33.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "Â£17.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "Â£22.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Black Maria",
+        "price": "Â£52.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": "Â£13.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shakespeare's Sonnets",
+        "price": "Â£20.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "Set Me Free",
+        "price": "Â£17.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "Â£52.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rip it Up and Start Again",
+        "price": "Â£35.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "Â£57.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "Olio",
+        "price": "Â£23.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "Â£37.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "Libertarianism for Beginners",
+        "price": "Â£51.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "It's Only the Himalayas",
+        "price": "Â£45.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "In Her Wake",
+        "price": "Â£12.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "How Music Works",
+        "price": "Â£37.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "price": "Â£30.52",
+        "in_stock": true
+    },
+    {
+        "book_name": "Chase Me (Paris Nights #2)",
+        "price": "Â£25.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Black Dust",
+        "price": "Â£34.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "Birdsong: A Story in Pictures",
+        "price": "Â£54.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "price": "Â£22.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "Aladdin and His Wonderful Lamp",
+        "price": "Â£53.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+        "price": "Â£40.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "Wall and Piece",
+        "price": "Â£44.18",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "price": "Â£17.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "price": "Â£31.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Elephant Tree",
+        "price": "Â£23.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bear and the Piano",
+        "price": "Â£36.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sophie's World",
+        "price": "Â£15.94",
+        "in_stock": true
+    },
+    {
+        "book_name": "Penny Maybe",
+        "price": "Â£33.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "Maude (1883-1993):She Grew Up with the country",
+        "price": "Â£18.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "In a Dark, Dark Wood",
+        "price": "Â£19.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Behind Closed Doors",
+        "price": "Â£52.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "You can't bury them all: Poems",
+        "price": "Â£33.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Slow States of Collapse: Poems",
+        "price": "Â£57.31",
+        "in_stock": true
+    },
+    {
+        "book_name": "Reasons to Stay Alive",
+        "price": "Â£26.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Private Paris (Private #10)",
+        "price": "Â£47.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "price": "Â£23.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Without Borders (Wanderlove #1)",
+        "price": "Â£45.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "When We Collided",
+        "price": "Â£31.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "We Love You, Charlie Freeman",
+        "price": "Â£50.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Untitled Collection: Sabbath Poems 2014",
+        "price": "Â£14.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "price": "Â£44.18",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unicorn Tracks",
+        "price": "Â£18.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "price": "Â£25.52",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "price": "Â£16.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "price": "Â£31.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "This One Summer",
+        "price": "Â£19.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "Thirst",
+        "price": "Â£17.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Torch Is Passed: A Harding Family Story",
+        "price": "Â£19.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Secret of Dreadwillow Carse",
+        "price": "Â£56.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "price": "Â£56.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Past Never Ends",
+        "price": "Â£56.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "price": "Â£45.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Nameless City (The Nameless City #1)",
+        "price": "Â£38.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Murder That Never Was (Forensic Instincts #5)",
+        "price": "Â£54.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "price": "Â£42.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "price": "Â£23.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "price": "Â£16.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "price": "Â£20.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "price": "Â£37.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "price": "Â£56.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Death of Humanity: and the Case for Life",
+        "price": "Â£58.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "price": "Â£49.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art Forger",
+        "price": "Â£40.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "price": "Â£19.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price": "Â£32.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "price": "Â£41.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Soul Reader",
+        "price": "Â£39.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Security",
+        "price": "Â£39.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "price": "Â£25.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "price": "Â£51.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "price": "Â£19.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "price": "Â£50.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "price": "Â£13.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "price": "Â£13.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Pop Gun War, Volume 1: Gift",
+        "price": "Â£18.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "price": "Â£36.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Patience",
+        "price": "Â£10.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "price": "Â£15.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "price": "Â£48.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "price": "Â£46.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "On a Midnight Clear",
+        "price": "Â£14.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Obsidian (Lux #1)",
+        "price": "Â£14.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Paris Kitchen: Recipes and Stories",
+        "price": "Â£33.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "Masks and Shadows",
+        "price": "Â£56.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "price": "Â£14.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "price": "Â£46.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "price": "Â£45.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "price": "Â£19.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "price": "Â£40.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "price": "Â£53.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Join",
+        "price": "Â£35.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "In the Country We Love: My Family Divided",
+        "price": "Â£22.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+        "price": "Â£57.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+        "price": "Â£29.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "I am a Hero Omnibus Volume 1",
+        "price": "Â£54.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "How to Be Miserable: 40 Strategies You Already Use",
+        "price": "Â£46.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "Her Backup Boyfriend (The Sorensen Family #1)",
+        "price": "Â£33.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Giant Days, Vol. 2 (Giant Days #5-8)",
+        "price": "Â£22.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "price": "Â£29.69",
+        "in_stock": true
+    },
+    {
+        "book_name": "First and First (Five Boroughs #3)",
+        "price": "Â£15.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fifty Shades Darker (Fifty Shades #2)",
+        "price": "Â£21.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+        "price": "Â£54.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+        "price": "Â£37.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Danganronpa Volume 1",
+        "price": "Â£51.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "Crown of Midnight (Throne of Glass #2)",
+        "price": "Â£43.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "Codename Baboushka, Volume 1: The Conclave of Death",
+        "price": "Â£36.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Camp Midnight",
+        "price": "Â£17.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+        "price": "Â£29.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "Burning",
+        "price": "Â£28.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "Bossypants",
+        "price": "Â£49.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",
+        "price": "Â£37.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+        "price": "Â£28.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "Algorithms to Live By: The Computer Science of Human Decisions",
+        "price": "Â£30.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "A World of Flavor: Your Gluten Free Passport",
+        "price": "Â£42.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+        "price": "Â£56.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Murder in Time",
+        "price": "Â£16.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Flight of Arrows (The Pathfinders #2)",
+        "price": "Â£55.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Fierce and Subtle Poison",
+        "price": "Â£28.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+        "price": "Â£52.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+        "price": "Â£54.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "You Are What You Love: The Spiritual Power of Habit",
+        "price": "Â£21.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+        "price": "Â£43.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tuesday Nights in 1980",
+        "price": "Â£21.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tracing Numbers on a Train",
+        "price": "Â£41.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Throne of Glass (Throne of Glass #1)",
+        "price": "Â£35.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+        "price": "Â£59.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "Thirteen Reasons Why",
+        "price": "Â£52.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ",
+        "price": "Â£58.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Wedding Dress",
+        "price": "Â£24.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Vacationers",
+        "price": "Â£42.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Third Wave: An Entrepreneurâs Vision of the Future",
+        "price": "Â£12.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Stranger",
+        "price": "Â£17.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Shadow Hero (The Shadow Hero)",
+        "price": "Â£33.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Secret (The Secret #1)",
+        "price": "Â£27.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Regional Office Is Under Attack!",
+        "price": "Â£51.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Psychopath Test: A Journey Through the Madness Industry",
+        "price": "Â£36.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Project",
+        "price": "Â£10.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "price": "Â£43.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Omnivore's Dilemma: A Natural History of Four Meals",
+        "price": "Â£38.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us",
+        "price": "Â£37.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "price": "Â£44.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Mistake (Off-Campus #2)",
+        "price": "Â£43.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Matchmaker's Playbook (Wingmen Inc. #1)",
+        "price": "Â£55.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+        "price": "Â£37.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Long Shadow of Small Ghosts: Murder and Memory in an American City",
+        "price": "Â£10.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Kite Runner",
+        "price": "Â£41.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "The House by the Lake",
+        "price": "Â£36.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Glittering Court (The Glittering Court #1)",
+        "price": "Â£44.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl on the Train",
+        "price": "Â£55.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Genius of Birds",
+        "price": "Â£17.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Emerald Mystery",
+        "price": "Â£23.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First",
+        "price": "Â£41.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+        "price": "Â£32.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Artist's Way: A Spiritual Path to Higher Creativity",
+        "price": "Â£38.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art of War",
+        "price": "Â£33.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Argonauts",
+        "price": "Â£10.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+        "price": "Â£27.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Suddenly in Love (Lake Haven #1)",
+        "price": "Â£55.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "Something More Than This",
+        "price": "Â£16.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "Soft Apocalypse",
+        "price": "Â£26.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "So You've Been Publicly Shamed",
+        "price": "Â£12.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shoe Dog: A Memoir by the Creator of NIKE",
+        "price": "Â£23.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shobu Samurai, Project Aryoku (#3)",
+        "price": "Â£29.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Secrets and Lace (Fatal Hearts #1)",
+        "price": "Â£20.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Scarlett Epstein Hates It Here",
+        "price": "Â£43.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Romero and Juliet: A Tragic Tale of Love and Zombies",
+        "price": "Â£36.94",
+        "in_stock": true
+    },
+    {
+        "book_name": "Redeeming Love",
+        "price": "Â£20.47",
+        "in_stock": true
+    },
+    {
+        "book_name": "Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form",
+        "price": "Â£41.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Poems That Make Grown Women Cry",
+        "price": "Â£14.19",
+        "in_stock": true
+    },
+    {
+        "book_name": "Nightingale, Sing",
+        "price": "Â£38.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Night Sky with Exit Wounds",
+        "price": "Â£41.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mrs. Houdini",
+        "price": "Â£30.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "Modern Romance",
+        "price": "Â£28.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1)",
+        "price": "Â£10.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "Louisa: The Extraordinary Life of Mrs. Adams",
+        "price": "Â£16.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "Little Red",
+        "price": "Â£13.47",
+        "in_stock": true
+    },
+    {
+        "book_name": "Library of Souls (Miss Peregrineâs Peculiar Children #3)",
+        "price": "Â£48.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "Large Print Heart of the Pride",
+        "price": "Â£19.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
+        "price": "Â£57.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hollow City (Miss Peregrineâs Peculiar Children #2)",
+        "price": "Â£42.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "Grumbles",
+        "price": "Â£22.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond",
+        "price": "Â£49.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "Frostbite (Vampire Academy #2)",
+        "price": "Â£29.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "Follow You Home",
+        "price": "Â£21.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "First Steps for New Christians (Print Edition)",
+        "price": "Â£29.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "Finders Keepers (Bill Hodges Trilogy #2)",
+        "price": "Â£53.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fables, Vol. 1: Legends in Exile (Fables #1)",
+        "price": "Â£41.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eureka Trivia 6.0",
+        "price": "Â£54.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "Drive: The Surprising Truth About What Motivates Us",
+        "price": "Â£34.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Done Rubbed Out (Reightman & Bailey #1)",
+        "price": "Â£37.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Doing It Over (Most Likely To #1)",
+        "price": "Â£35.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",
+        "price": "Â£42.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dark Notes",
+        "price": "Â£19.19",
+        "in_stock": true
+    },
+    {
+        "book_name": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+        "price": "Â£19.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "Close to You",
+        "price": "Â£49.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Chasing Heaven: What Dying Taught Me About Living",
+        "price": "Â£37.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Big Magic: Creative Living Beyond Fear",
+        "price": "Â£30.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
+        "price": "Â£27.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "Beauty Restored (Riley Family Legacy Novellas #3)",
+        "price": "Â£11.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Batman: The Long Halloween (Batman)",
+        "price": "Â£36.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "Batman: The Dark Knight Returns (Batman)",
+        "price": "Â£15.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ayumi's Violin",
+        "price": "Â£15.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "Anonymous",
+        "price": "Â£46.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Amy Meets the Saints and Sages",
+        "price": "Â£18.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Amid the Chaos",
+        "price": "Â£36.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Amatus",
+        "price": "Â£50.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "Agnostic: A Spirited Manifesto",
+        "price": "Â£12.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Zealot: The Life and Times of Jesus of Nazareth",
+        "price": "Â£24.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "You (You #1)",
+        "price": "Â£43.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",
+        "price": "Â£37.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Wild Swans",
+        "price": "Â£14.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond",
+        "price": "Â£52.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity",
+        "price": "Â£38.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "What's It Like in Space?: Stories from Astronauts Who've Been There",
+        "price": "Â£19.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",
+        "price": "Â£53.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Walt Disney's Alice in Wonderland",
+        "price": "Â£12.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "V for Vendetta (V for Vendetta Complete)",
+        "price": "Â£37.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "Until Friday Night (The Field Party #1)",
+        "price": "Â£46.31",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+        "price": "Â£45.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Twenty Yawns",
+        "price": "Â£22.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "Through the Woods",
+        "price": "Â£25.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "This Is Where It Ends",
+        "price": "Â£27.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Year of Magical Thinking",
+        "price": "Â£43.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Wright Brothers",
+        "price": "Â£56.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "The White Queen (The Cousins' War #1)",
+        "price": "Â£25.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Wedding Pact (The O'Malleys #2)",
+        "price": "Â£32.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Time Keeper",
+        "price": "Â£27.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Testament of Mary",
+        "price": "Â£52.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Star-Touched Queen",
+        "price": "Â£46.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Songs of the Gods",
+        "price": "Â£44.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Song of Achilles",
+        "price": "Â£37.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Rosie Project (Don Tillman #1)",
+        "price": "Â£54.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "price": "Â£16.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Marriage of Opposites",
+        "price": "Â£28.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Lucifer Effect: Understanding How Good People Turn Evil",
+        "price": "Â£10.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Long Haul (Diary of a Wimpy Kid #9)",
+        "price": "Â£44.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Loney",
+        "price": "Â£23.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Literature Book (Big Ideas Simply Explained)",
+        "price": "Â£17.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Last Mile (Amos Decker #2)",
+        "price": "Â£54.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Immortal Life of Henrietta Lacks",
+        "price": "Â£40.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hidden Oracle (The Trials of Apollo #1)",
+        "price": "Â£52.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+        "price": "Â£28.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Guilty (Will Robie #4)",
+        "price": "Â£13.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "The First Hostage (J.B. Collins #2)",
+        "price": "Â£25.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Dovekeepers",
+        "price": "Â£48.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Darkest Lie",
+        "price": "Â£35.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bane Chronicles (The Bane Chronicles #1-11)",
+        "price": "Â£44.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts",
+        "price": "Â£15.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The 14th Colony (Cotton Malone #11)",
+        "price": "Â£39.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "That Darkness (Gardiner and Renner #1)",
+        "price": "Â£13.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tastes Like Fear (DI Marnie Rome #3)",
+        "price": "Â£10.69",
+        "in_stock": true
+    },
+    {
+        "book_name": "Take Me with You",
+        "price": "Â£45.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Swell: A Year of Waves",
+        "price": "Â£45.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)",
+        "price": "Â£11.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Still Life with Bread Crumbs",
+        "price": "Â£26.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Steve Jobs",
+        "price": "Â£39.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+        "price": "Â£44.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Someone Like You (The Harrisons #2)",
+        "price": "Â£52.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",
+        "price": "Â£35.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shtum",
+        "price": "Â£55.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "price": "Â£48.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "salt.",
+        "price": "Â£46.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "Robin War",
+        "price": "Â£47.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",
+        "price": "Â£25.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rain Fish",
+        "price": "Â£23.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+        "price": "Â£50.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Pet Sematary",
+        "price": "Â£10.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+        "price": "Â£52.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "Once Was a Time",
+        "price": "Â£18.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Old School (Diary of a Wimpy Kid #10)",
+        "price": "Â£11.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon",
+        "price": "Â£21.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",
+        "price": "Â£38.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Name Is Lucy Barton",
+        "price": "Â£41.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Mrs. Brown",
+        "price": "Â£24.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Kind of Crazy",
+        "price": "Â£40.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "price": "Â£28.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "More Than Music (Chasing the Dream #1)",
+        "price": "Â£37.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "Made to Stick: Why Some Ideas Survive and Others Die",
+        "price": "Â£38.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "Luis Paints the World",
+        "price": "Â£53.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Luckiest Girl Alive",
+        "price": "Â£49.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lowriders to the Center of the Earth (Lowriders in Space #2)",
+        "price": "Â£51.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Love Is a Mix Tape (Music #1)",
+        "price": "Â£18.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "Looking for Lovely: Collecting the Moments that Matter",
+        "price": "Â£29.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",
+        "price": "Â£46.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Let It Out: A Journey Through Journaling",
+        "price": "Â£26.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lady Midnight (The Dark Artifices #1)",
+        "price": "Â£16.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",
+        "price": "Â£19.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Island of Dragons (Unwanteds #7)",
+        "price": "Â£29.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction",
+        "price": "Â£25.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Am Pilgrim (Pilgrim #1)",
+        "price": "Â£10.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+        "price": "Â£14.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hush, Hush (Hush, Hush #1)",
+        "price": "Â£47.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hold Your Breath (Search and Rescue #1)",
+        "price": "Â£28.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hamilton: The Revolution",
+        "price": "Â£58.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Greek Mythic History",
+        "price": "Â£10.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "God: The Most Unpleasant Character in All Fiction",
+        "price": "Â£30.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "Glory over Everything: Beyond The Kitchen House",
+        "price": "Â£45.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "Feathers: Displays of Brilliant Plumage",
+        "price": "Â£49.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",
+        "price": "Â£15.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Every Last Word",
+        "price": "Â£46.47",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eligible (The Austen Project #4)",
+        "price": "Â£27.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "El Deafo",
+        "price": "Â£57.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eight Hundred Grapes",
+        "price": "Â£14.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",
+        "price": "Â£51.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eat Fat, Get Thin",
+        "price": "Â£54.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Don't Get Caught",
+        "price": "Â£55.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Doctor Sleep (The Shining #2)",
+        "price": "Â£40.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+        "price": "Â£37.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dear Mr. Knightley",
+        "price": "Â£11.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Daily Fantasy Sports",
+        "price": "Â£36.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Crazy Love: Overwhelmed by a Relentless God",
+        "price": "Â£47.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Cometh the Hour (The Clifton Chronicles #6)",
+        "price": "Â£25.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "Code Name Verity (Code Name Verity #1)",
+        "price": "Â£22.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Clockwork Angel (The Infernal Devices #1)",
+        "price": "Â£44.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "City of Glass (The Mortal Instruments #3)",
+        "price": "Â£56.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "City of Fallen Angels (The Mortal Instruments #4)",
+        "price": "Â£11.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "City of Bones (The Mortal Instruments #1)",
+        "price": "Â£43.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "City of Ashes (The Mortal Instruments #2)",
+        "price": "Â£47.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Cell",
+        "price": "Â£20.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "Catching Jordan (Hundred Oaks)",
+        "price": "Â£50.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Carry On, Warrior: Thoughts on Life Unarmed",
+        "price": "Â£31.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "Carrie",
+        "price": "Â£46.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "Buying In: The Secret Dialogue Between What We Buy and Who We Are",
+        "price": "Â£37.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Brain on Fire: My Month of Madness",
+        "price": "Â£49.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Batman: Europa",
+        "price": "Â£32.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "Barefoot Contessa Back to Basics",
+        "price": "Â£28.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again",
+        "price": "Â£50.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Balloon Animals",
+        "price": "Â£17.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "Art Ops Vol. 1",
+        "price": "Â£48.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+        "price": "Â£58.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "Angels Walking (Angels Walking #1)",
+        "price": "Â£34.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "Angels & Demons (Robert Langdon #1)",
+        "price": "Â£51.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "All the Light We Cannot See",
+        "price": "Â£29.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Adulthood Is a Myth: A \"Sarah's Scribbles\" Collection",
+        "price": "Â£10.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Abstract City",
+        "price": "Â£56.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Time of Torment (Charlie Parker #14)",
+        "price": "Â£48.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Study in Scarlet (Sherlock Holmes #1)",
+        "price": "Â£16.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",
+        "price": "Â£56.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "A People's History of the United States",
+        "price": "Â£40.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Man Called Ove",
+        "price": "Â£39.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Distant Mirror: The Calamitous 14th Century",
+        "price": "Â£14.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Brush of Wings (Angels Walking #3)",
+        "price": "Â£55.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "1491: New Revelations of the Americas Before Columbus",
+        "price": "Â£21.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Three Searches, Meaning, and the Story",
+        "price": "Â£13.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Searching for Meaning in Gailana",
+        "price": "Â£38.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rook",
+        "price": "Â£37.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Kitchen Year: 136 Recipes That Saved My Life",
+        "price": "Â£11.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "13 Hours: The Inside Account of What Really Happened In Benghazi",
+        "price": "Â£27.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Will You Won't You Want Me?",
+        "price": "Â£13.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
+        "price": "Â£37.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Star-Touched Queen",
+        "price": "Â£32.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Silent Sister (Riley MacPherson #1)",
+        "price": "Â£46.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Midnight Watch: A Novel of the Titanic and the Californian",
+        "price": "Â£26.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Lonely City: Adventures in the Art of Being Alone",
+        "price": "Â£33.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore",
+        "price": "Â£59.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Golden Condom: And Other Essays on Love Lost and Found",
+        "price": "Â£39.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Epidemic (The Program 0.6)",
+        "price": "Â£14.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Dinner Party",
+        "price": "Â£56.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Diary of a Young Girl",
+        "price": "Â£59.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Children",
+        "price": "Â£11.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "Stars Above (The Lunar Chronicles #4.5)",
+        "price": "Â£48.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas",
+        "price": "Â£21.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Raspberry Pi Electronics Projects for the Evil Genius",
+        "price": "Â£49.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two",
+        "price": "Â£43.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "Psycho: Sanitarium (Psycho #1.5)",
+        "price": "Â£36.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Poisonous (Max Revere Novels #3)",
+        "price": "Â£26.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "One with You (Crossfire #5)",
+        "price": "Â£15.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "No Love Allowed (Dodge Cove #1)",
+        "price": "Â£54.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "price": "Â£54.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Most Wanted",
+        "price": "Â£35.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Love, Lies and Spies",
+        "price": "Â£20.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "How to Speak Golf: An Illustrated Guide to Links Lingo",
+        "price": "Â£58.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hide Away (Eve Duncan #20)",
+        "price": "Â£11.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "Furiously Happy: A Funny Book About Horrible Things",
+        "price": "Â£41.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Everyday Italian: 125 Simple and Delicious Recipes",
+        "price": "Â£20.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "Equal Is Unfair: America's Misguided Fight Against Income Inequality",
+        "price": "Â£56.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eleanor & Park",
+        "price": "Â£56.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dirty (Dive Bar #1)",
+        "price": "Â£40.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Can You Keep a Secret? (Fear Street Relaunch #4)",
+        "price": "Â£48.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "Boar Island (Anna Pigeon #19)",
+        "price": "Â£59.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Paris Apartment",
+        "price": "Â£39.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",
+        "price": "Â£38.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "Troublemaker: Surviving Hollywood and Scientology",
+        "price": "Â£48.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Widow",
+        "price": "Â£27.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Sleep Revolution: Transforming Your Life, One Night at a Time",
+        "price": "Â£11.68",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Improbability of Love",
+        "price": "Â£59.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art of Startup Fundraising",
+        "price": "Â£21.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "Take Me Home Tonight (Rock Star Romance #3)",
+        "price": "Â£53.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sleeping Giants (Themis Files #1)",
+        "price": "Â£48.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+        "price": "Â£21.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "Playing with Fire",
+        "price": "Â£13.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "Off the Hook (Fishing for Trouble #1)",
+        "price": "Â£47.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mothering Sunday",
+        "price": "Â£13.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mother, Can You Not?",
+        "price": "Â£16.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "M Train",
+        "price": "Â£27.18",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lilac Girls",
+        "price": "Â£17.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lies and Other Acts of Love",
+        "price": "Â£45.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lab Girl",
+        "price": "Â£40.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "Keep Me Posted",
+        "price": "Â£20.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+        "price": "Â£56.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Grey (Fifty Shades #4)",
+        "price": "Â£48.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "Exit, Pursued by a Bear",
+        "price": "Â£51.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Daredevils",
+        "price": "Â£16.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Cravings: Recipes for What You Want to Eat",
+        "price": "Â£20.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "Born for This: How to Find the Work You Were Meant to Do",
+        "price": "Â£21.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "Arena",
+        "price": "Â£21.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Adultery",
+        "price": "Â£20.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Mother's Reckoning: Living in the Aftermath of Tragedy",
+        "price": "Â£19.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Gentleman's Position (Society of Gentlemen #3)",
+        "price": "Â£14.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "11/22/63",
+        "price": "Â£48.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+        "price": "Â£24.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+        "price": "Â£49.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "Without Shame",
+        "price": "Â£48.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Watchmen",
+        "price": "Â£58.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unlimited Intuition Now",
+        "price": "Â£58.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Underlying Notes",
+        "price": "Â£11.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Shack",
+        "price": "Â£28.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "The New Brand You: Your New Image Makes the Sale for You",
+        "price": "Â£44.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",
+        "price": "Â£12.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Flowers Lied",
+        "price": "Â£16.68",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+        "price": "Â£55.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Book of Mormon",
+        "price": "Â£24.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art and Science of Low Carbohydrate Living",
+        "price": "Â£52.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Alien Club",
+        "price": "Â£54.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
+        "price": "Â£54.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "Nap-a-Roo",
+        "price": "Â£25.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",
+        "price": "Â£10.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Modern Day Fables",
+        "price": "Â£47.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "If I Gave You God's Phone Number....: Searching for Spirituality in America",
+        "price": "Â£20.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 9 (Fruits Basket #9)",
+        "price": "Â£33.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dress Your Family in Corduroy and Denim",
+        "price": "Â£43.68",
+        "in_stock": true
+    },
+    {
+        "book_name": "Don't Forget Steven",
+        "price": "Â£33.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster",
+        "price": "Â£35.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+        "price": "Â£48.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Shard of Ice (The Black Symphony Saga #1)",
+        "price": "Â£56.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Hero's Curse (The Unseen Chronicles #1)",
+        "price": "Â£50.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "23 Degrees South: A Tropical Tale of Changing Whether...",
+        "price": "Â£35.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Zero to One: Notes on Startups, or How to Build the Future",
+        "price": "Â£34.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Why Not Me?",
+        "price": "Â£17.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "When Breath Becomes Air",
+        "price": "Â£39.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "price": "Â£36.94",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)",
+        "price": "Â£43.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "The New Drawing on the Right Side of the Brain",
+        "price": "Â£43.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",
+        "price": "Â£28.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Martian (The Martian #1)",
+        "price": "Â£41.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "The High Mountains of Portugal",
+        "price": "Â£51.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Grownup",
+        "price": "Â£35.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+        "price": "Â£36.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "South of Sunshine",
+        "price": "Â£28.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+        "price": "Â£38.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Silence in the Dark (Logan Point #4)",
+        "price": "Â£58.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shadows of the Past (Logan Point #1)",
+        "price": "Â£39.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Roller Girl",
+        "price": "Â£14.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rising Strong",
+        "price": "Â£21.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Proofs of God: Classical Arguments from Tertullian to Barth",
+        "price": "Â£54.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Please Kill Me: The Uncensored Oral History of Punk",
+        "price": "Â£31.19",
+        "in_stock": true
+    },
+    {
+        "book_name": "Out of Print: City Lights Spotlight No. 14",
+        "price": "Â£53.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Life Next Door (My Life Next Door )",
+        "price": "Â£36.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "Miller's Valley",
+        "price": "Â£58.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "Man's Search for Meaning",
+        "price": "Â£29.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",
+        "price": "Â£25.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+        "price": "Â£12.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Les Fleurs du Mal",
+        "price": "Â£29.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "Left Behind (Left Behind #1)",
+        "price": "Â£40.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+        "price": "Â£45.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "Kierkegaard: A Christian Missionary to Christians",
+        "price": "Â£47.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "John Vassos: Industrial Design for Modern Life",
+        "price": "Â£20.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "I'll Give You the Sun",
+        "price": "Â£56.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Will Find You",
+        "price": "Â£44.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hystopia: A Novel",
+        "price": "Â£21.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Howl and Other Poems",
+        "price": "Â£40.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "History of Beauty",
+        "price": "Â£10.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+        "price": "Â£52.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "Future Shock (Future Shock #1)",
+        "price": "Â£55.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ender's Game (The Ender Quintet #1)",
+        "price": "Â£43.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+        "price": "Â£28.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Death by Leisure: A Cautionary Tale",
+        "price": "Â£37.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Brilliant Beacons: A History of the American Lighthouse",
+        "price": "Â£11.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "Brazen: The Courage to Find the You That's Been Hiding",
+        "price": "Â£19.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "Between the World and Me",
+        "price": "Â£56.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Being Mortal: Medicine and What Matters in the End",
+        "price": "Â£55.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Murder Over a Girl: Justice, Gender, Junior High",
+        "price": "Â£13.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "32 Yolks",
+        "price": "Â£53.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+        "price": "Â£44.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "price": "Â£12.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "Wildlife of New York: A Five-Borough Coloring Book",
+        "price": "Â£22.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "price": "Â£25.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+        "price": "Â£46.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Under the Tuscan Sun",
+        "price": "Â£37.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Toddlers Are A**holes: It's Not Your Fault",
+        "price": "Â£25.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible",
+        "price": "Â£34.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Whale",
+        "price": "Â£35.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Story of Art",
+        "price": "Â£41.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Origin of Species",
+        "price": "Â£10.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Great Gatsby",
+        "price": "Â£36.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Good Girl",
+        "price": "Â£49.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Glass Castle",
+        "price": "Â£16.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+        "price": "Â£39.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Drowning Girls",
+        "price": "Â£35.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Constant Princess (The Tudor Court #1)",
+        "price": "Â£16.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bourne Identity (Jason Bourne #1)",
+        "price": "Â£42.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "price": "Â£52.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art Book",
+        "price": "Â£32.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "price": "Â£33.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "Team of Rivals: The Political Genius of Abraham Lincoln",
+        "price": "Â£20.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+        "price": "Â£20.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sit, Stay, Love",
+        "price": "Â£20.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sister Dear",
+        "price": "Â£40.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+        "price": "Â£52.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rich Dad, Poor Dad",
+        "price": "Â£51.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Raymie Nightingale",
+        "price": "Â£34.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Playing from the Heart",
+        "price": "Â£32.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "Nightstruck: A Novel",
+        "price": "Â£50.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",
+        "price": "Â£11.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "Meternity",
+        "price": "Â£43.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Memoirs of a Geisha",
+        "price": "Â£49.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Like Never Before (Walker Family #2)",
+        "price": "Â£28.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "Life of Pi",
+        "price": "Â£13.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "Leave This Song Behind: Teen Poetry at Its Best",
+        "price": "Â£51.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "King's Folly (The Kinsman Chronicles #1)",
+        "price": "Â£39.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "John Adams",
+        "price": "Â£57.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)",
+        "price": "Â£46.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking",
+        "price": "Â£28.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "Good in Bed (Cannie Shapiro #1)",
+        "price": "Â£37.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 7 (Fruits Basket #7)",
+        "price": "Â£19.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "For the Love: Fighting for Grace in a World of Impossible Standards",
+        "price": "Â£45.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Finding God in the Ruins: How God Redeems Pain",
+        "price": "Â£46.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "Every Heart a Doorway (Every Heart A Doorway #1)",
+        "price": "Â£12.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "price": "Â£20.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Counted With the Stars (Out from Egypt #1)",
+        "price": "Â£17.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Chronicles, Vol. 1",
+        "price": "Â£52.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+        "price": "Â£25.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "Benjamin Franklin: An American Life",
+        "price": "Â£48.19",
+        "in_stock": true
+    },
+    {
+        "book_name": "At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+        "price": "Â£29.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Summer In Europe",
+        "price": "Â£44.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Short History of Nearly Everything",
+        "price": "Â£52.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Gathering of Shadows (Shades of Magic #2)",
+        "price": "Â£44.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Sound Of Love",
+        "price": "Â£57.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+        "price": "Â£39.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Perks of Being a Wallflower",
+        "price": "Â£55.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+        "price": "Â£24.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+        "price": "Â£59.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Makings of a Fatherless Child",
+        "price": "Â£31.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Joy of Cooking",
+        "price": "Â£43.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Invention of Wings",
+        "price": "Â£37.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hobbit (Middle-Earth Universe)",
+        "price": "Â£17.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Great Railway Bazaar",
+        "price": "Â£30.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Golden Compass (His Dark Materials #1)",
+        "price": "Â£18.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The God Delusion",
+        "price": "Â£46.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl You Left Behind (The Girl You Left Behind #1)",
+        "price": "Â£15.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Fellowship of the Ring (The Lord of the Rings #1)",
+        "price": "Â£10.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+        "price": "Â£15.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Barefoot Contessa Cookbook",
+        "price": "Â£59.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tell the Wolves I'm Home",
+        "price": "Â£50.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman",
+        "price": "Â£30.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Pride and Prejudice",
+        "price": "Â£19.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Musicophilia: Tales of Music and the Brain",
+        "price": "Â£46.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mere Christianity",
+        "price": "Â£48.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Me Before You (Me Before You #1)",
+        "price": "Â£19.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "In the Woods (Dublin Murder Squad #1)",
+        "price": "Â£38.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "In Cold Blood",
+        "price": "Â£49.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "How to Stop Worrying and Start Living",
+        "price": "Â£46.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "Give It Back",
+        "price": "Â£18.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Girl, Interrupted",
+        "price": "Â£42.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fun Home: A Family Tragicomic",
+        "price": "Â£56.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 6 (Fruits Basket #6)",
+        "price": "Â£20.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Deception Point",
+        "price": "Â£40.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Death Note, Vol. 6: Give-and-Take (Death Note #6)",
+        "price": "Â£36.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "Catherine the Great: Portrait of a Woman",
+        "price": "Â£58.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Better Homes and Gardens New Cook Book",
+        "price": "Â£39.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "An Unquiet Mind: A Memoir of Moods and Madness",
+        "price": "Â£21.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Year in Provence (Provence #1)",
+        "price": "Â£56.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "World Without End (The Pillars of the Earth #2)",
+        "price": "Â£32.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "Will Grayson, Will Grayson (Will Grayson, Will Grayson)",
+        "price": "Â£47.31",
+        "in_stock": true
+    },
+    {
+        "book_name": "Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis",
+        "price": "Â£48.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Where She Went (If I Stay #2)",
+        "price": "Â£41.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+        "price": "Â£53.68",
+        "in_stock": true
+    },
+    {
+        "book_name": "Two Summers",
+        "price": "Â£14.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "This Is Your Brain on Music: The Science of a Human Obsession",
+        "price": "Â£38.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Secret Garden",
+        "price": "Â£15.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Raven King (The Raven Cycle #4)",
+        "price": "Â£30.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Raven Boys (The Raven Cycle #1)",
+        "price": "Â£57.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Power Greens Cookbook: 140 Delicious Superfood Recipes",
+        "price": "Â£11.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Metamorphosis",
+        "price": "Â£28.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+        "price": "Â£42.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Little Paris Bookshop",
+        "price": "Â£24.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hiding Place",
+        "price": "Â£55.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Grand Design",
+        "price": "Â£13.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Firm",
+        "price": "Â£45.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Fault in Our Stars",
+        "price": "Â£47.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "The False Prince (The Ascendance Trilogy #1)",
+        "price": "Â£56.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Expatriates",
+        "price": "Â£44.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Dream Thieves (The Raven Cycle #2)",
+        "price": "Â£34.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Darkest Corners",
+        "price": "Â£11.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Crossover",
+        "price": "Â£38.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The 5th Wave (The 5th Wave #1)",
+        "price": "Â£11.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tell the Wind and Fire",
+        "price": "Â£45.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Tell Me Three Things",
+        "price": "Â£41.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut",
+        "price": "Â£25.15",
+        "in_stock": true
+    },
+    {
+        "book_name": "Siddhartha",
+        "price": "Â£34.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shiver (The Wolves of Mercy Falls #1)",
+        "price": "Â£16.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "Remember Me?",
+        "price": "Â£11.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "Red Dragon (Hannibal Lecter #1)",
+        "price": "Â£23.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "Peak: Secrets from the New Science of Expertise",
+        "price": "Â£16.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Mother Was Nuts",
+        "price": "Â£31.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens",
+        "price": "Â£24.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Maybe Something Beautiful: How Art Transformed a Neighborhood",
+        "price": "Â£22.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lola and the Boy Next Door (Anna and the French Kiss #2)",
+        "price": "Â£23.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Logan Kade (Fallen Crest High #5.5)",
+        "price": "Â£13.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "Last One Home (New Beginnings #1)",
+        "price": "Â£59.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "Killing Floor (Jack Reacher #1)",
+        "price": "Â£31.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "Kill the Boy Band",
+        "price": "Â£15.52",
+        "in_stock": true
+    },
+    {
+        "book_name": "Isla and the Happily Ever After (Anna and the French Kiss #3)",
+        "price": "Â£48.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "If I Stay (If I Stay #1)",
+        "price": "Â£38.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)",
+        "price": "Â£36.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Harry Potter and the Deathly Hallows (Harry Potter #7)",
+        "price": "Â£23.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 5 (Fruits Basket #5)",
+        "price": "Â£16.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Foundation (Foundation (Publication Order) #1)",
+        "price": "Â£32.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fool Me Once",
+        "price": "Â£16.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Find Her (Detective D.D. Warren #8)",
+        "price": "Â£22.37",
+        "in_stock": true
+    },
+    {
+        "book_name": "Evicted: Poverty and Profit in the American City",
+        "price": "Â£42.27",
+        "in_stock": true
+    },
+    {
+        "book_name": "Drama",
+        "price": "Â£38.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dracula the Un-Dead",
+        "price": "Â£35.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Digital Fortress",
+        "price": "Â£58.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "Death Note, Vol. 5: Whiteout (Death Note #5)",
+        "price": "Â£52.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+        "price": "Â£32.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Critique of Pure Reason",
+        "price": "Â£20.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "Booked",
+        "price": "Â£17.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "Blue Lily, Lily Blue (The Raven Cycle #3)",
+        "price": "Â£34.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Approval Junkie: Adventures in Caring Too Much",
+        "price": "Â£58.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "An Abundance of Katherines",
+        "price": "Â£10.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "America's War for the Greater Middle East: A Military History",
+        "price": "Â£51.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "Alight (The Generations Trilogy #2)",
+        "price": "Â£58.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Girl's Guide to Moving On (New Beginnings #2)",
+        "price": "Â£31.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Game of Thrones (A Song of Ice and Fire #1)",
+        "price": "Â£46.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Feast for Crows (A Song of Ice and Fire #4)",
+        "price": "Â£17.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Clash of Kings (A Song of Ice and Fire #2)",
+        "price": "Â£10.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Vogue Colors A to Z: A Fashion Coloring Book",
+        "price": "Â£52.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Shining (The Shining #1)",
+        "price": "Â£27.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Pilgrim's Progress",
+        "price": "Â£50.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Perfect Play (Play by Play #1)",
+        "price": "Â£59.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Passion of Dolssa",
+        "price": "Â£28.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe",
+        "price": "Â£38.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hunger Games (The Hunger Games #1)",
+        "price": "Â£29.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+        "price": "Â£14.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Gunning of America: Business and the Making of American Gun Culture",
+        "price": "Â£16.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Geography of Bliss: One Grump's Search for the Happiest Places in the World",
+        "price": "Â£28.23",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Demonists (Demonist #1)",
+        "price": "Â£52.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",
+        "price": "Â£27.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+        "price": "Â£59.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Beast (Black Dagger Brotherhood #14)",
+        "price": "Â£46.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "Some Women",
+        "price": "Â£13.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shopaholic Ties the Knot (Shopaholic #3)",
+        "price": "Â£48.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "Paper and Fire (The Great Library #2)",
+        "price": "Â£49.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "Outlander (Outlander #1)",
+        "price": "Â£19.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+        "price": "Â£12.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "No One Here Gets Out Alive",
+        "price": "Â£20.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Night Shift (Night Shift #1-20)",
+        "price": "Â£12.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "Needful Things",
+        "price": "Â£47.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Mockingjay (The Hunger Games #3)",
+        "price": "Â£20.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "Misery",
+        "price": "Â£34.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Little Women (Little Women #1)",
+        "price": "Â£28.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "It",
+        "price": "Â£25.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "Harry Potter and the Sorcerer's Stone (Harry Potter #1)",
+        "price": "Â£13.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Harry Potter and the Prisoner of Azkaban (Harry Potter #3)",
+        "price": "Â£24.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "Harry Potter and the Order of the Phoenix (Harry Potter #5)",
+        "price": "Â£31.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+        "price": "Â£48.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "Harry Potter and the Chamber of Secrets (Harry Potter #2)",
+        "price": "Â£14.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Gone with the Wind",
+        "price": "Â£32.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "God Is Not Great: How Religion Poisons Everything",
+        "price": "Â£27.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Girl With a Pearl Earring",
+        "price": "Â£26.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 4 (Fruits Basket #4)",
+        "price": "Â£50.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "Far From True (Promise Falls Trilogy #2)",
+        "price": "Â£34.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dark Lover (Black Dagger Brotherhood #1)",
+        "price": "Â£12.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Confessions of a Shopaholic (Shopaholic #1)",
+        "price": "Â£48.94",
+        "in_stock": true
+    },
+    {
+        "book_name": "Changing the Game (Play by Play #2)",
+        "price": "Â£13.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "Candide",
+        "price": "Â£58.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Can You Keep a Secret?",
+        "price": "Â£21.94",
+        "in_stock": true
+    },
+    {
+        "book_name": "Atlas Shrugged",
+        "price": "Â£26.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Animal Farm",
+        "price": "Â£57.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Walk to Remember",
+        "price": "Â£56.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "A New Earth: Awakening to Your Life's Purpose",
+        "price": "Â£55.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+        "price": "Â£27.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "'Salem's Lot",
+        "price": "Â£49.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "Zero History (Blue Ant #3)",
+        "price": "Â£34.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "Wuthering Heights",
+        "price": "Â£17.73",
+        "in_stock": true
+    },
+    {
+        "book_name": "World War Z: An Oral History of the Zombie War",
+        "price": "Â£21.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Wild: From Lost to Found on the Pacific Crest Trail",
+        "price": "Â£46.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Where'd You Go, Bernadette",
+        "price": "Â£18.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "When You Are Engulfed in Flames",
+        "price": "Â£30.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America",
+        "price": "Â£31.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "We Are All Completely Beside Ourselves",
+        "price": "Â£24.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "Walk the Edge (Thunder Road #2)",
+        "price": "Â£32.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Voyager (Outlander #3)",
+        "price": "Â£21.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+        "price": "Â£50.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "Vegan Vegetarian Omnivore: Dinner for Everyone at the Table",
+        "price": "Â£13.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "Unstuffed: Decluttering Your Home, Mind, and Soul",
+        "price": "Â£58.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "Under the Banner of Heaven: A Story of Violent Faith",
+        "price": "Â£30.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "Two Boys Kissing",
+        "price": "Â£32.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Twilight (Twilight #1)",
+        "price": "Â£41.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "Twenties Girl",
+        "price": "Â£42.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",
+        "price": "Â£53.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Three-Martini Lunch",
+        "price": "Â£23.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Thinking, Fast and Slow",
+        "price": "Â£21.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Wild Robot",
+        "price": "Â£56.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",
+        "price": "Â£14.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Undomestic Goddess",
+        "price": "Â£45.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Travelers",
+        "price": "Â£15.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Tipping Point: How Little Things Can Make a Big Difference",
+        "price": "Â£10.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Thing About Jellyfish",
+        "price": "Â£48.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Stand",
+        "price": "Â£57.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Smitten Kitchen Cookbook",
+        "price": "Â£23.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Silkworm (Cormoran Strike #2)",
+        "price": "Â£23.05",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",
+        "price": "Â£55.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Rose & the Dagger (The Wrath and the Dawn #2)",
+        "price": "Â£58.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "price": "Â£23.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Rise of Theodore Roosevelt (Theodore Roosevelt #1)",
+        "price": "Â£42.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+        "price": "Â£10.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Rest Is Noise: Listening to the Twentieth Century",
+        "price": "Â£34.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Red Tent",
+        "price": "Â£35.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Purpose Driven Life: What on Earth Am I Here for?",
+        "price": "Â£37.19",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Purest Hook (Second Circle Tattoos #3)",
+        "price": "Â£12.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Picture of Dorian Gray",
+        "price": "Â£29.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Paris Wife",
+        "price": "Â£36.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Obsession",
+        "price": "Â£45.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Nightingale",
+        "price": "Â£26.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The New Guy (and Other Senior Year Distractions)",
+        "price": "Â£44.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Nanny Diaries (Nanny #1)",
+        "price": "Â£52.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Name of God is Mercy",
+        "price": "Â£37.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Maze Runner (The Maze Runner #1)",
+        "price": "Â£20.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Lover's Dictionary",
+        "price": "Â£58.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Lonely Ones",
+        "price": "Â£43.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "price": "Â£33.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Last Painting of Sara de Vos",
+        "price": "Â£55.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Land of 10,000 Madonnas",
+        "price": "Â£29.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Infinities",
+        "price": "Â£27.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Husband's Secret",
+        "price": "Â£52.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)",
+        "price": "Â£47.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Guns of August",
+        "price": "Â£14.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Guernsey Literary and Potato Peel Pie Society",
+        "price": "Â£49.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Goldfinch",
+        "price": "Â£43.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Giver (The Giver Quartet #1)",
+        "price": "Â£12.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl with All the Gifts",
+        "price": "Â£49.47",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl Who Played with Fire (Millennium Trilogy #2)",
+        "price": "Â£22.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)",
+        "price": "Â£57.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Exiled",
+        "price": "Â£43.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "The End of Faith: Religion, Terror, and the Future of Reason",
+        "price": "Â£22.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "price": "Â£13.03",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+        "price": "Â£57.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Devil Wears Prada (The Devil Wears Prada #1)",
+        "price": "Â£44.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Demon-Haunted World: Science as a Candle in the Dark",
+        "price": "Â£52.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Day the Crayons Came Home (Crayons)",
+        "price": "Â£26.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Da Vinci Code (Robert Langdon #2)",
+        "price": "Â£22.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Cuckoo's Calling (Cormoran Strike #1)",
+        "price": "Â£19.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+        "price": "Â£26.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Complete Poems",
+        "price": "Â£41.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Catcher in the Rye",
+        "price": "Â£24.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Cat in the Hat (Beginner Books B-1)",
+        "price": "Â£16.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Case for Christ (Cases for Christianity)",
+        "price": "Â£47.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Book Thief",
+        "price": "Â£53.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Book of Basketball: The NBA According to The Sports Guy",
+        "price": "Â£44.84",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Blind Side: Evolution of a Game",
+        "price": "Â£53.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Autobiography of Malcolm X",
+        "price": "Â£23.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
+        "price": "Â£34.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art of Fielding",
+        "price": "Â£22.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+        "price": "Â£25.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Stiff: The Curious Lives of Human Cadavers",
+        "price": "Â£36.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Spilled Milk: Based on a True Story",
+        "price": "Â£49.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Something Borrowed (Darcy & Rachel #1)",
+        "price": "Â£48.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Something Blue (Darcy & Rachel #2)",
+        "price": "Â£54.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Soldier (Talon #3)",
+        "price": "Â£24.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shopaholic & Baby (Shopaholic #5)",
+        "price": "Â£46.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "Seven Days in the Art World",
+        "price": "Â£52.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Seven Brief Lessons on Physics",
+        "price": "Â£30.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Scarlet (The Lunar Chronicles #2)",
+        "price": "Â£14.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sarah's Key",
+        "price": "Â£46.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "Saga, Volume 3 (Saga (Collected Editions) #3)",
+        "price": "Â£21.57",
+        "in_stock": true
+    },
+    {
+        "book_name": "Running with Scissors",
+        "price": "Â£12.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rogue Lawyer (Rogue Lawyer #1)",
+        "price": "Â£50.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",
+        "price": "Â£41.67",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rework",
+        "price": "Â£44.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "Reservations for Two",
+        "price": "Â£11.10",
+        "in_stock": true
+    },
+    {
+        "book_name": "Red: The True Story of Red Riding Hood",
+        "price": "Â£28.54",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ready Player One",
+        "price": "Â£19.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "price": "Â£43.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)",
+        "price": "Â£43.63",
+        "in_stock": true
+    },
+    {
+        "book_name": "Persepolis: The Story of a Childhood (Persepolis #1-2)",
+        "price": "Â£39.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Packing for Mars: The Curious Science of Life in the Void",
+        "price": "Â£56.68",
+        "in_stock": true
+    },
+    {
+        "book_name": "Outliers: The Story of Success",
+        "price": "Â£14.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "Original Fake",
+        "price": "Â£31.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "Orange Is the New Black",
+        "price": "Â£24.61",
+        "in_stock": true
+    },
+    {
+        "book_name": "One for the Money (Stephanie Plum #1)",
+        "price": "Â£32.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Notes from a Small Island (Notes From a Small Island #1)",
+        "price": "Â£40.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "Night (The Night Trilogy #1)",
+        "price": "Â£13.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Neither Here nor There: Travels in Europe",
+        "price": "Â£38.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Naked",
+        "price": "Â£31.69",
+        "in_stock": true
+    },
+    {
+        "book_name": "Morning Star (Red Rising #3)",
+        "price": "Â£29.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",
+        "price": "Â£57.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+        "price": "Â£55.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Me Talk Pretty One Day",
+        "price": "Â£57.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Manuscript Found in Accra",
+        "price": "Â£34.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lust & Wonder",
+        "price": "Â£11.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lila (Gilead #3)",
+        "price": "Â£12.47",
+        "in_stock": true
+    },
+    {
+        "book_name": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+        "price": "Â£33.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "Life Without a Recipe",
+        "price": "Â£59.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "Life After Life",
+        "price": "Â£26.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Letter to a Christian Nation",
+        "price": "Â£22.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "Let's Pretend This Never Happened: A Mostly True Memoir",
+        "price": "Â£45.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Legend (Legend #1)",
+        "price": "Â£43.69",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lean In: Women, Work, and the Will to Lead",
+        "price": "Â£25.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "price": "Â£55.50",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lady Renegades (Rebel Belle #3)",
+        "price": "Â£53.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "Jurassic Park (Jurassic Park #1)",
+        "price": "Â£44.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond",
+        "price": "Â£42.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "Is Everyone Hanging Out Without Me? (And Other Concerns)",
+        "price": "Â£20.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Into the Wild",
+        "price": "Â£56.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "Inferno (Robert Langdon #4)",
+        "price": "Â£41.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
+        "price": "Â£28.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "If I Run (If I Run #1)",
+        "price": "Â£49.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "I've Got Your Number",
+        "price": "Â£19.69",
+        "in_stock": true
+    },
+    {
+        "book_name": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+        "price": "Â£28.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World",
+        "price": "Â£33.14",
+        "in_stock": true
+    },
+    {
+        "book_name": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+        "price": "Â£43.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "House of Leaves",
+        "price": "Â£54.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Horrible Bear!",
+        "price": "Â£37.52",
+        "in_stock": true
+    },
+    {
+        "book_name": "Holidays on Ice",
+        "price": "Â£51.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Heir to the Sky",
+        "price": "Â£44.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Green Eggs and Ham (Beginner Books B-16)",
+        "price": "Â£10.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Grayson, Vol 3: Nemesis (Grayson #3)",
+        "price": "Â£42.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Gratitude",
+        "price": "Â£26.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "Gone Girl",
+        "price": "Â£37.60",
+        "in_stock": true
+    },
+    {
+        "book_name": "Golden (Heart of Dread #3)",
+        "price": "Â£42.21",
+        "in_stock": true
+    },
+    {
+        "book_name": "Girl in the Blue Coat",
+        "price": "Â£46.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 3 (Fruits Basket #3)",
+        "price": "Â£45.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "Friday Night Lights: A Town, a Team, and a Dream",
+        "price": "Â£51.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fire Bound (Sea Haven/Sisters of the Heart #5)",
+        "price": "Â£21.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fifty Shades Freed (Fifty Shades #3)",
+        "price": "Â£15.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fellside",
+        "price": "Â£38.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Extreme Prey (Lucas Davenport #26)",
+        "price": "Â£25.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eragon (The Inheritance Cycle #1)",
+        "price": "Â£43.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eclipse (Twilight #3)",
+        "price": "Â£18.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dune (Dune #1)",
+        "price": "Â£54.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dracula",
+        "price": "Â£52.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+        "price": "Â£51.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "Disrupted: My Misadventure in the Start-Up Bubble",
+        "price": "Â£15.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dead Wake: The Last Crossing of the Lusitania",
+        "price": "Â£39.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+        "price": "Â£17.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "Darkfever (Fever #1)",
+        "price": "Â£56.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Dark Places",
+        "price": "Â£23.90",
+        "in_stock": true
+    },
+    {
+        "book_name": "Crazy Rich Asians (Crazy Rich Asians #1)",
+        "price": "Â£49.13",
+        "in_stock": true
+    },
+    {
+        "book_name": "Counting Thyme",
+        "price": "Â£10.62",
+        "in_stock": true
+    },
+    {
+        "book_name": "Cosmos",
+        "price": "Â£36.17",
+        "in_stock": true
+    },
+    {
+        "book_name": "Civilization and Its Discontents",
+        "price": "Â£59.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Cinder (The Lunar Chronicles #1)",
+        "price": "Â£26.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
+        "price": "Â£37.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Career of Evil (Cormoran Strike #3)",
+        "price": "Â£24.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Breaking Dawn (Twilight #4)",
+        "price": "Â£35.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Brave Enough",
+        "price": "Â£51.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Boy Meets Boy",
+        "price": "Â£21.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+        "price": "Â£27.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Blink: The Power of Thinking Without Thinking",
+        "price": "Â£21.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Black Flags: The Rise of ISIS",
+        "price": "Â£40.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Black Butler, Vol. 1 (Black Butler #1)",
+        "price": "Â£49.31",
+        "in_stock": true
+    },
+    {
+        "book_name": "Big Little Lies",
+        "price": "Â£22.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Between Shades of Gray",
+        "price": "Â£20.79",
+        "in_stock": true
+    },
+    {
+        "book_name": "Best of My Love (Fool's Gold #20)",
+        "price": "Â£27.41",
+        "in_stock": true
+    },
+    {
+        "book_name": "Beowulf",
+        "price": "Â£38.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Beautiful Creatures (Caster Chronicles #1)",
+        "price": "Â£21.55",
+        "in_stock": true
+    },
+    {
+        "book_name": "Awkward",
+        "price": "Â£38.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ash",
+        "price": "Â£22.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "Are We There Yet?",
+        "price": "Â£10.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "Are We Smart Enough to Know How Smart Animals Are?",
+        "price": "Â£56.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Annie on My Mind",
+        "price": "Â£36.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "And Then There Were None",
+        "price": "Â£35.01",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+        "price": "Â£30.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Visit from the Goon Squad",
+        "price": "Â£14.08",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Storm of Swords (A Song of Ice and Fire #3)",
+        "price": "Â£31.22",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Heartbreaking Work of Staggering Genius",
+        "price": "Â£54.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "8 Keys to Mental Health Through Exercise",
+        "price": "Â£31.04",
+        "in_stock": true
+    },
+    {
+        "book_name": "#GIRLBOSS",
+        "price": "Â£50.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Suffragettes (Little Black Classics, #96)",
+        "price": "Â£11.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Sense of an Ending",
+        "price": "Â£31.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",
+        "price": "Â£54.81",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Course of Love",
+        "price": "Â£16.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sugar Rush (Offensive Line #2)",
+        "price": "Â£24.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "Saga, Volume 2 (Saga (Collected Editions) #2)",
+        "price": "Â£11.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "Run, Spot, Run: The Ethics of Keeping Pets",
+        "price": "Â£20.02",
+        "in_stock": true
+    },
+    {
+        "book_name": "New Moon (Twilight #2)",
+        "price": "Â£12.86",
+        "in_stock": true
+    },
+    {
+        "book_name": "Life",
+        "price": "Â£31.58",
+        "in_stock": true
+    },
+    {
+        "book_name": "Kindle Paperwhite User's Guide",
+        "price": "Â£34.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "H is for Hawk",
+        "price": "Â£57.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "Girl Online On Tour (Girl Online #2)",
+        "price": "Â£53.47",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 2 (Fruits Basket #2)",
+        "price": "Â£11.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)",
+        "price": "Â£52.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",
+        "price": "Â£18.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "While You Were Mine",
+        "price": "Â£41.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Where Lightning Strikes (Bleeding Stars #3)",
+        "price": "Â£39.77",
+        "in_stock": true
+    },
+    {
+        "book_name": "When I'm Gone",
+        "price": "Â£51.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ways of Seeing",
+        "price": "Â£39.51",
+        "in_stock": true
+    },
+    {
+        "book_name": "Vampire Knight, Vol. 1 (Vampire Knight #1)",
+        "price": "Â£15.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Vampire Girl (Vampire Girl #1)",
+        "price": "Â£53.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Twenty Love Poems and a Song of Despair",
+        "price": "Â£30.95",
+        "in_stock": true
+    },
+    {
+        "book_name": "Travels with Charley: In Search of America",
+        "price": "Â£57.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Three Wishes (River of Time: California #1)",
+        "price": "Â£44.18",
+        "in_stock": true
+    },
+    {
+        "book_name": "This One Moment (Pushing Limits #1)",
+        "price": "Â£48.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Zombie Room",
+        "price": "Â£19.69",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",
+        "price": "Â£36.52",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Tumor",
+        "price": "Â£41.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Story of Hong Gildong",
+        "price": "Â£43.19",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Silent Wife",
+        "price": "Â£12.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Silent Twin (Detective Jennifer Knight #3)",
+        "price": "Â£36.25",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Selfish Gene",
+        "price": "Â£29.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Secret Healer",
+        "price": "Â£34.56",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",
+        "price": "Â£54.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Republic",
+        "price": "Â£33.78",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Odyssey",
+        "price": "Â£29.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+        "price": "Â£57.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Nicomachean Ethics",
+        "price": "Â£36.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Name of the Wind (The Kingkiller Chronicle #1)",
+        "price": "Â£50.59",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Mirror & the Maze (The Wrath and the Dawn #1.5)",
+        "price": "Â£29.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Little Prince",
+        "price": "Â£45.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Light of the Fireflies",
+        "price": "Â£54.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Last Girl (The Dominion Trilogy #1)",
+        "price": "Â£36.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Iliad",
+        "price": "Â£16.16",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Hook Up (Game On #1)",
+        "price": "Â£36.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Haters",
+        "price": "Â£27.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl You Lost",
+        "price": "Â£12.29",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Girl In The Ice (DCI Erika Foster #1)",
+        "price": "Â£15.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "The End of the Jesus Era (An Investigation #1)",
+        "price": "Â£14.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Edge of Reason (Bridget Jones #2)",
+        "price": "Â£19.18",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Complete Maus (Maus #1-2)",
+        "price": "Â£10.64",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Communist Manifesto",
+        "price": "Â£14.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bhagavad Gita",
+        "price": "Â£57.49",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Bette Davis Club",
+        "price": "Â£30.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "The Art of Not Breathing",
+        "price": "Â£40.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Taking Shots (Assassins #1)",
+        "price": "Â£18.88",
+        "in_stock": true
+    },
+    {
+        "book_name": "Starlark",
+        "price": "Â£25.83",
+        "in_stock": true
+    },
+    {
+        "book_name": "Skip Beat!, Vol. 01 (Skip Beat! #1)",
+        "price": "Â£42.12",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sister Sable (The Mad Queen #1)",
+        "price": "Â£13.33",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shatter Me (Shatter Me #1)",
+        "price": "Â£42.40",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shameless",
+        "price": "Â£58.35",
+        "in_stock": true
+    },
+    {
+        "book_name": "Shadow Rites (Jane Yellowrock #10)",
+        "price": "Â£21.72",
+        "in_stock": true
+    },
+    {
+        "book_name": "Settling the Score (The Summer Games #1)",
+        "price": "Â£44.91",
+        "in_stock": true
+    },
+    {
+        "book_name": "Sense and Sensibility",
+        "price": "Â£37.46",
+        "in_stock": true
+    },
+    {
+        "book_name": "Saga, Volume 1 (Saga (Collected Editions) #1)",
+        "price": "Â£28.48",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rhythm, Chord & Malykhin",
+        "price": "Â£28.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",
+        "price": "Â£46.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Paradise Lost (Paradise #1)",
+        "price": "Â£24.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Paper Girls, Vol. 1 (Paper Girls #1-5)",
+        "price": "Â£21.71",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",
+        "price": "Â£29.87",
+        "in_stock": true
+    },
+    {
+        "book_name": "Origins (Alphas 0.5)",
+        "price": "Â£28.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "One Second (Seven #7)",
+        "price": "Â£52.94",
+        "in_stock": true
+    },
+    {
+        "book_name": "On the Road (Duluoz Legend)",
+        "price": "Â£32.36",
+        "in_stock": true
+    },
+    {
+        "book_name": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "price": "Â£55.66",
+        "in_stock": true
+    },
+    {
+        "book_name": "Off Sides (Off #1)",
+        "price": "Â£39.45",
+        "in_stock": true
+    },
+    {
+        "book_name": "Of Mice and Men",
+        "price": "Â£47.11",
+        "in_stock": true
+    },
+    {
+        "book_name": "Myriad (Prentor #1)",
+        "price": "Â£58.75",
+        "in_stock": true
+    },
+    {
+        "book_name": "My Perfect Mistake (Over the Top #1)",
+        "price": "Â£38.92",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",
+        "price": "Â£39.39",
+        "in_stock": true
+    },
+    {
+        "book_name": "Meditations",
+        "price": "Â£25.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Matilda",
+        "price": "Â£28.34",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lost Among the Living",
+        "price": "Â£27.70",
+        "in_stock": true
+    },
+    {
+        "book_name": "Lord of the Flies",
+        "price": "Â£24.89",
+        "in_stock": true
+    },
+    {
+        "book_name": "Listen to Me (Fusion #1)",
+        "price": "Â£58.99",
+        "in_stock": true
+    },
+    {
+        "book_name": "Kitchens of the Great Midwest",
+        "price": "Â£57.20",
+        "in_stock": true
+    },
+    {
+        "book_name": "Jane Eyre",
+        "price": "Â£38.43",
+        "in_stock": true
+    },
+    {
+        "book_name": "Imperfect Harmony",
+        "price": "Â£34.74",
+        "in_stock": true
+    },
+    {
+        "book_name": "Icing (Aces Hockey #2)",
+        "price": "Â£40.44",
+        "in_stock": true
+    },
+    {
+        "book_name": "Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",
+        "price": "Â£45.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+        "price": "Â£34.96",
+        "in_stock": true
+    },
+    {
+        "book_name": "Giant Days, Vol. 1 (Giant Days #1-4)",
+        "price": "Â£56.76",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fruits Basket, Vol. 1 (Fruits Basket #1)",
+        "price": "Â£40.28",
+        "in_stock": true
+    },
+    {
+        "book_name": "Frankenstein",
+        "price": "Â£38.00",
+        "in_stock": true
+    },
+    {
+        "book_name": "Forever Rockers (The Rocker #12)",
+        "price": "Â£28.80",
+        "in_stock": true
+    },
+    {
+        "book_name": "Fighting Fate (Fighting #6)",
+        "price": "Â£39.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "Emma",
+        "price": "Â£32.93",
+        "in_stock": true
+    },
+    {
+        "book_name": "Eat, Pray, Love",
+        "price": "Â£51.32",
+        "in_stock": true
+    },
+    {
+        "book_name": "Deep Under (Walker Security #1)",
+        "price": "Â£47.09",
+        "in_stock": true
+    },
+    {
+        "book_name": "Choosing Our Religion: The Spiritual Lives of America's Nones",
+        "price": "Â£28.42",
+        "in_stock": true
+    },
+    {
+        "book_name": "Charlie and the Chocolate Factory (Charlie Bucket #1)",
+        "price": "Â£22.85",
+        "in_stock": true
+    },
+    {
+        "book_name": "Charity's Cross (Charles Towne Belles #4)",
+        "price": "Â£41.24",
+        "in_stock": true
+    },
+    {
+        "book_name": "Bright Lines",
+        "price": "Â£39.07",
+        "in_stock": true
+    },
+    {
+        "book_name": "Bridget Jones's Diary (Bridget Jones #1)",
+        "price": "Â£29.82",
+        "in_stock": true
+    },
+    {
+        "book_name": "Bounty (Colorado Mountain #7)",
+        "price": "Â£37.26",
+        "in_stock": true
+    },
+    {
+        "book_name": "Blood Defense (Samantha Brinkman #1)",
+        "price": "Â£20.30",
+        "in_stock": true
+    },
+    {
+        "book_name": "Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",
+        "price": "Â£34.65",
+        "in_stock": true
+    },
+    {
+        "book_name": "Beyond Good and Evil",
+        "price": "Â£43.38",
+        "in_stock": true
+    },
+    {
+        "book_name": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "price": "Â£55.53",
+        "in_stock": true
+    },
+    {
+        "book_name": "Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",
+        "price": "Â£57.06",
+        "in_stock": true
+    },
+    {
+        "book_name": "A Spy's Devotion (The Regency Spies of London #1)",
+        "price": "Â£16.97",
+        "in_stock": true
+    },
+    {
+        "book_name": "1st to Die (Women's Murder Club #1)",
+        "price": "Â£53.98",
+        "in_stock": true
+    },
+    {
+        "book_name": "1,000 Places to See Before You Die",
+        "price": "Â£26.08",
+        "in_stock": true
+    }
+]
