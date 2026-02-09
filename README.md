@@ -9,7 +9,10 @@ Hvis requests prøver at hente en dynamisk side vil den hente tomme div containe
 
 ### Hvilke HTML-elementer vælger man og hvorfor?
 
-    
+attributer: id, class
+containere: div, article, ul, li, table, tr, td
+links: a href, 
+billede: img src
 
 Jeg har lært at hjemmesider har beskyttelse mod hurtige forespørgsler.
 Der for skal man tilføje en debounce i koden.
